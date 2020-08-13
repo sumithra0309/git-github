@@ -1,0 +1,9 @@
+first file for git tutorial
+git commands:
+git init
+git remote add orgin "git address"
+git clear 
+git pull orgin master
+git status
+git add edu1.txt
+git status to chck new thing will be committed or not
