@@ -7,3 +7,5 @@ git pull orgin master
 git status
 git add edu1.txt
 git status to chck new thing will be committed or not
+git config --global user.email "sumithra030992@gmail.com"
+git config --global user.name "sumithra"
